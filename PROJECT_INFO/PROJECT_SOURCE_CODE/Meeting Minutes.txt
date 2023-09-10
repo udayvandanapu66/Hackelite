@@ -1,0 +1,37 @@
+Meeting Minutes
+
+Meeting Dates: Stand-up meetings are scheduled every week.
+
+Dates:
+08-27-2023
+08-31-2023
+09-05-2023
+09-09-2023
+Time: 06:00 PM – 08:00 PM
+
+Platform: Microsoft Teams
+
+Attendees:
+1.Uday Vandanapu
+2.Sahithi Regalla
+3.Kavya Jangapalli
+4.Durga Devi Pampani
+5.Pendyala Pranay
+6.Hemanth Janapala
+7.Karthik Setti
+8.Vaishnavi Adapa
+9.Mounika Eddala
+
+Agenda
+
+Project Idea Sharing: Each team member presented their project idea and provided a detailed description.
+Feasibility Discussion: We assessed the feasibility and discussed the advantages and disadvantages of the proposed project ideas.
+Finalizing Project Ideas: Following extensive deliberation, we selected and agreed upon a set of project ideas to propose to the instructor.
+Project Planning: We engaged in a productive discussion about project planning and implementation methods, with each team member contributing valuable insights and new concepts.
+Milestones: Various approaches for establishing project milestones were examined, and we shared effective ways to visually represent these milestones for submission.
+Project Implementation Platforms: We explored the use of platforms like GitHub and Trello Kanban boards for project implementation and exchanged viewpoints on programming languages such as Java, MySQL, and Angular JS.
+Deliverable 1 Responsibilities: Team members expressed their preferences for working on Deliverable 1, and tasks were distributed evenly among team members.
+PowerPoint Presentation: We outlined the content and structure of the PowerPoint presentation for Deliverable 1, including both the slide deck and video presentation elements.
+Video Presentation Planning: The team brainstormed ideas and shared their experiences regarding the recording of the video presentation. We developed an overview of the presentation and assigned specific tasks for video recording.
+Conclusion and Next Steps: The meeting concluded with a summary of key takeaways to emphasize during the upcoming class meeting. Tasks were assigned to ensure progress towards Deliverable 1.
+
