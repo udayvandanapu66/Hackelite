@@ -1,0 +1,30 @@
+Meeting Minutes:
+Meeting Info: Every week, we have set up regular stand-up meetings based on team members availability.
+Meeting Dates:
+09-17-2023
+09-20-2023
+09-26-2023
+09-28-2023
+09-01-2023
+Time: 08:00 PM – 10:00 PM
+ 
+Platform: Microsoft Teams
+ 
+Attendees:
+1. Sahithi Regalla
+2. Uday Vandanapu 
+3.Kavya Jangapalli
+4.Durga Devi Pampani
+5.Pendyala Pranay
+6.Hemanth Janapala
+7.Karthik Setti
+8.Vaishnavi Adapa
+9.Mounika Eddala
+ 
+Agenda
+During Meet-1, in the initial phase we have discussed about the document structure and IEEE standards to create document, followed by overall framework of the system how to outline the structure of the project. We created a plan among team to complete the action items.
+During Meet-2, Each member of the team involved in gathering the requirements for both functional, non-functional requirements and gathered the information for user, system, admin, software, hardware, memory interfaces.
+ 
+During Meet-3, We have completed the initial phase of deliverable-2 documentation, we were able to come up with structure diagram for FuelXpress website. Reviewed the work of individual sections done by other members and provided suggestions. We have created a development plan and spent the later half of the meet to resolve installation issues.
+In Meet-4, we have refined the specifications and discussed the design constraints and interface design for our website. We came up with a table structure for Admin module. This meet is concluded by compiling the individual sections of specification document.
+In Meet-5, we have completed the final changes to documentation, completion of GitHub Check-in’s. We have tracked all our project updates using Trello. Each of the team member started work on phase-1 implementation and some of the time is assigned as a group for setup of database and understanding the API intergrations.
