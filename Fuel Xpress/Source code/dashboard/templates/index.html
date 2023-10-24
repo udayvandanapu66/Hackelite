@@ -1,0 +1,57 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{% static 'fuelxpress/main.css' %}">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{% static 'fuelxpress/favicons/apple-touch-icon.png' %}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{% static 'fuelxpress/favicons/favicon-32x32.png' %}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{% static 'fuelxpress/favicons/favicon-16x16.png' %}">
+    <link rel="manifest" href="{% static 'fuelxpress/favicons/site.webmanifest' %}">
+
+    <title>Fuel Xpress</title>
+</head>
+
+<body class="homepage" style="margin: 0; padding: 0;">
+    <div class="row homepage-row">
+        <div class="col-md-9 homepage-left-col"></div>
+        <div class="col-md-3 homepage-right-col">
+            <div class="homepage-right-col-inner-div">
+                <img class="homepage-right-col-logo" src="{% static 'fuelxpress/favicons/favicon.ico' %}" alt="Logo">
+                <div class="homepage-right-col-inner-div-btns">
+                    <a class="btn btn-primary btn-block" href="u/login">Login</a>
+                    <a class="btn btn-outline-primary btn-block" href="u/register">Create Account</a>
+                </div>
+                <hr>
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="#">Shop</a></li>
+                    <li class="list-inline-item"><a href="/about">About</a></li>
+                    <li class="list-inline-item"><a href="/services">Services</a></li>
+                    <li class="list-inline-item"><a href="#">Contact</a></li>
+                </ul>
+                <p class="text-muted">&copy; 2023 Fuel Xpress Deliveries</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
