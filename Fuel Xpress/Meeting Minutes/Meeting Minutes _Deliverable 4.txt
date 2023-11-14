@@ -1,0 +1,22 @@
+Meeting Minutes
+Meeting Dates: Meetings were scheduled every Monday and Thursday of the week.
+Dates:11-01-2023
+      11-03-2023
+      11-06-2023
+      11-08-2023 
+      11-10-2023
+Time: 06:00 PM – 08:00 PM 
+Platform: Microsoft Teams 
+Attendees:  
+1.Uday Vandanapu
+2.Sahithi Regalla
+3.Kavya Jangapalli
+4.Durga Devi Pampani
+5.Pendyala Pranay
+6.Hemanth Janapala
+7.Karthik Setti
+8.Vaishnavi Adapa
+9.Mounika Eddala
+
+Things Discussed:  
+Sahithi provided an overview of the current project status. We as a team discussed how to implement our ideas regarding the achievement of the project features. then the work was distributed among team members Uday and Pranay have provided an overview of the current project status to date. karthik had discussed regarding dashboards. kavya  and Devi were responsible for Documentation whereas Mounika and Vaishnavi created dashboards and finally Hemanth updated the code to fix bugs, we Collaborated multiple times for code inspection and we all Discussed upcoming tasks and goals for upcoming Deliverables
