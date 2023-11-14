@@ -1,0 +1,38 @@
+{% extends "fuelxpress_dashboard/fuelxpress_base.html" %}
+{% block content %}
+<div class="content-section">
+    <h2>Order Detail</h2>
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Order ID:</th>
+                <td>{{ order.id }}</td>
+            </tr>
+            <tr>
+                <th>Fuel Type:</th>
+                <td>{{ order.FX_fuel_type }}</td>
+            </tr>
+            <tr>
+                <th>Gas Station:</th>
+                <td><a href="{% url 'fuelxpress_gas_station_detail' order.FX_gas_station.id %}">{{ order.FX_gas_station }}</a></td>
+            </tr>
+            <tr>
+                <th>Quantity:</th>
+                <td>{{ order.FX_quantity }}</td>
+            </tr>
+            <tr>
+                <th>Delivery Location:</th>
+                <td>{{ order.FX_delivery_location }}</td>
+            </tr>
+            <tr>
+                <th>Order Status:</th>
+                <td>{{ order.FX_order_status }}</td>
+            </tr>
+            <tr>
+                <th>Order Date:</th>
+                <td>{{ order.FX_order_date }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+{% endblock content %}
