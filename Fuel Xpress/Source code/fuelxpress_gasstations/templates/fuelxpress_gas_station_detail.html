@@ -1,0 +1,14 @@
+{% extends "fuelxpress_dashboard/fuelxpress_base.html" %}
+{% block content %}
+<div class="content-section">
+    <h2>Gas Station Detail</h2>
+    <p>Name: {{ gas_station.FX_name }}</p>
+    <p>Location: {{ gas_station.FX_location }}</p>
+    <p>Inventory: {{ gas_station.FX_inventory }}</p>
+    <div class="action-buttons">
+        <button class="btn btn-info" onclick="callGasStation('{{ gas_station.FX_phone_number }}')">Call</button>
+        <button class="btn btn-success" onclick="messageGasStation('{{ gas_station.FX_email }}')">Email</button>
+        <!-- Add more buttons for other actions -->
+    </div>
+</div>
+{% endblock content %}
