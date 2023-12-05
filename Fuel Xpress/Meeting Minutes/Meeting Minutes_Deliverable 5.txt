@@ -1,0 +1,22 @@
+Meeting Minutes
+Meeting Dates: Meetings were scheduled every Monday and Thursday of the week.
+Dates:11-13-2023
+      11-15-2023
+      11-17-2023
+      11-20-2023 
+      11-23-2023
+      12-04-2023
+Time: 06:00 PM – 08:00 PM 
+Platform: Microsoft Teams 
+Attendees:  
+1.Uday Vandanapu
+2.Sahithi Regalla
+3.Kavya Jangapalli
+4.Durga Devi Pampani
+5.Pendyala Pranay
+6.Hemanth Janapala
+7.Karthik Setti
+8.Vaishnavi Adapa
+9.Mounika Eddala
+Things Discussed:  
+Sahithi presented a project status overview, and as a team, we collaboratively delved into strategies for realizing our ideas in achieving the project features. Subsequently, tasks were allocated among team members: Uday and Pranay were assigned the task of implementing the Order Confirmation feature, Kavya and Devi will be responsible for handling the Order History feature, Mounika and Vaishnavi will collaborate on the Delivery Location feature, Hemanth will update the code for the "Pay Later" payment method, and Karthik provided valuable insights into dashboard development. Team members are urged to proceed with their assigned tasks. Regular check-ins and collaboration are encouraged for seamless integration.
